@@ -1,0 +1,7 @@
+//valueof()
+
+
+Interger i = Integer.valueOf("10");
+Integer i = Integer.valueOf("1010",2);
+Short s = Short.valueOf("100");
+Byte b = Integer.valueOf("130"); 

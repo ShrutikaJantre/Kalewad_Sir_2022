@@ -1,0 +1,21 @@
+interface Xyz{
+	int x = 10;
+	void m1();
+}
+
+abstract class Pqr implements Xyz{
+	//@Override
+	//public void m2(){
+	
+	//}
+	
+	void m2();
+	void m3();
+		
+
+}
+
+class Def extends Pqr{
+
+
+}
